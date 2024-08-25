@@ -77,10 +77,6 @@ This project focuses on analyzing the adoption of electric vehicles (EVs) across
 - **Test:** Chi-square test to compare BEV adoption between urban and non-urban areas.
 - **Result:** Significant difference found, with higher BEV adoption in urban areas.
 
-### Hypothesis 3: Manufacturer/Model Dominance by Region
-- **Test:** Chi-square test to identify if certain manufacturers or models dominate specific regions.
-- **Result:** Confirmed that local preferences or incentives influence the dominance of certain makes/models in specific regions.
-
 ## Feature Engineering
 
 ### New Features Created
