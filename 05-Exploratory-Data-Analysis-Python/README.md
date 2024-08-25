@@ -58,6 +58,6 @@ This project focuses on the exploratory data analysis (EDA) of electric vehicle 
 - Visualization inspiration was drawn from various data analysis best practices.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Kareemulla-Adivigalla/Electric-Vehicle-EV-Adoption-Analysis-in-Washington-State/blob/master/LICENSE) file for details.
 
 
