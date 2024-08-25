@@ -4,7 +4,7 @@ This folder contains documentation related to the business objectives and goals 
 # Electric Vehicle Population Analysis in Washington State
 
 ## Project Description
-This project aims to analyze the geographic distribution, market penetration, and consumer behavior related to electric vehicles (EVs) in Washington state. By examining data on EV adoption across various counties and cities, the project provides insights that can guide policy decisions, marketing strategies, and support programs for electric vehicles.
+This project aims to analyze the geographic distribution, and market penetration related to electric vehicles (EVs) in Washington state. By examining data on EV adoption across various counties and cities, the project provides insights that can guide policy decisions, marketing strategies, and support programs for electric vehicles.
 
 ## Business Objectives and Goals
 
